@@ -1,0 +1,3 @@
+[submodule "fh-dining-philosophers"]
+	path = fh-dining-philosophers
+	url = git@github.com:FlorianMold/fh-dining-philosophers.git
