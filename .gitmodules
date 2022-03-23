@@ -4,3 +4,6 @@
 [submodule "fh-ppr-mandelbrot"]
 	path = fh-ppr-mandelbrot
 	url = git@github.com:FlorianMold/fh-ppr-mandelbrot.git
+[submodule "fh-ppr-sorting-algorithms"]
+	path = fh-ppr-sorting-algorithms
+	url = git@github.com:FlorianMold/fh-ppr-sorting-algorithms.git
